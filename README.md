@@ -10,4 +10,5 @@ Creemos que hay algún error, como:
 
 En general creemos que no han seguido el método Shu Ha Ri, ya que han ido directamente a crear un código, la fase Ri, sin ver como lo hacía el maestro (Rubén), es decir sin la fase Shu. Tendrían que haber mirado el código del maestro y aprender cómo se hacía, después deberían haber inspeccionado ese código y hacerlo a su manera; y ya finalmente crear uno propio implementando lo que quieran (fase Ri).
 
+El diagrama de flujo de este proyecto es:
 ![Diagrama ejercicio](https://user-images.githubusercontent.com/91721699/143012763-c67aba9a-5a14-4bba-8107-5d23324f6bcd.jpg)
